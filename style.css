@@ -1,0 +1,110 @@
+body {
+    background: cornflowerblue;
+}
+.wrapper{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.header{
+    height: 150px;
+}
+.banner{
+    height: 100px;
+    background: cadetblue;
+}
+.nav{
+    height:50px;
+    background: mediumaquamarine;
+}
+
+.content{
+    width: 100%;
+    height: 1200px;
+}
+.welcome{
+    width:79%;
+    background: khaki;
+    float: left;
+    height: 400px;
+    margin-left: auto;
+    margin-right: 1%;
+    margin-bottom: 8px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.thingsto{
+    width:20%;
+    height: 400px;
+    background: hotpink;
+    float: right;
+        border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+   
+}
+.story{
+    width: 79%;
+    background: royalblue;
+    height: 800px;
+    float: left;
+    margin-left: auto;
+    margin-right: 1%;
+    margin-bottom: 8px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.howto{
+    width: 20%;
+    background: olive;
+    height:300px;
+    float: right;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-bottom: 1%;
+}
+    
+
+.thingsto{
+    width:20%;
+    height: 400px;
+    background: hotpink;
+    float: right;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+   
+}
+.accomodation{
+    width: 20%;
+    height: 200px;
+    background: greenyellow;
+    float: right;
+    margin-top: 1%;
+        border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+    
+}
+
+.footer{
+    height:50px;
+    width: 100%;
+    background: olive;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 1%;
+}
